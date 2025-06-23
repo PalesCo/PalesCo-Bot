@@ -1,0 +1,17 @@
+{
+    "clientId":"936459557138473041",
+    "serverId":"836023621763727391",
+    "status": ["DZAN", "Welcome to DZAN Portfolio.","!help"],
+    "owner":["776359293276258315"],
+    "prefix":"!",
+    "timestamp":4000,
+    "permissions":[
+    "SEND_MESSAGES",
+    "VIEW_CHANNEL",
+    "ADD_REACTIONS",
+    "EMBED_LINKS",
+    "ATTACH_FILES",
+    "USE_EXTERNAL_EMOJIS"
+],
+"developerId":"776359293276258315"
+}
