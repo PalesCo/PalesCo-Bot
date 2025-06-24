@@ -136,3 +136,5 @@ dist
 .pnp.*
 # Dzan
 archive/
+.vscode/
+.gitignore
